@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書綱目
-#+DATE: 2015-09-23 09:38:49
-#+PROPERTY: JUAN 90
+#+DATE: 2015-08-24 22:11:49.003338
+#+PROPERTY: ID KR1d0086
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 附録卷下
 <pb:KR1d0086_WYG_090-1a>¶
 欽定四庫全書¶
 　禮書綱目附録卷下　　　　　婺源江永撰¶
@@ -301,4 +303,3 @@
 　¶
 　¶
 　禮書綱目附錄卷下¶
-

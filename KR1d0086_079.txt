@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書綱目
-#+DATE: 2015-09-23 09:38:49
-#+PROPERTY: JUAN 79
+#+DATE: 2015-08-24 22:11:48.750753
+#+PROPERTY: ID KR1d0086
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十七
 <pb:KR1d0086_WYG_079-1a>¶
 欽定四庫全書¶
 　禮書綱目卷七十七　　　　　楘源江永撰¶
@@ -362,4 +364,3 @@
 　¶
 　¶
 　禮書綱目卷七十七¶
-

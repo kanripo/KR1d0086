@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書綱目
-#+DATE: 2015-09-23 09:38:49
-#+PROPERTY: JUAN 37
+#+DATE: 2015-08-24 22:11:47.837384
+#+PROPERTY: ID KR1d0086
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十五
 <pb:KR1d0086_WYG_037-1a>¶
 欽定四庫全書¶
 　禮書綱目卷三十五　　　　　婺源江永撰¶
@@ -524,4 +526,3 @@
 (司中司命司民司祿於/國城西北亦未知何據)¶
 　　右祀司中司命飌師雨師¶
 　禮書綱目卷三十五¶
-
